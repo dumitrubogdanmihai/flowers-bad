@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <val>
-    <prop action="flag" att="audience" val="syncro-dev" style="-oxy-editable: false;" color="gray" backcolor="silver"/>
+    <prop action="exclude" att="audience" val="syncro-dev" style="-oxy-editable: false;"
+        color="gray" backcolor="silver"/>
 </val>
